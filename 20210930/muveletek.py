@@ -78,7 +78,8 @@ print(A)
 a = float(input("Kérem a számot:"))
 b = float(input("Kérem b számot:"))
 negyzetgyok = a**2+b**2
-print(negyzetgyok)
+megoldas = sqrt(negyzetgyok)
+print(megoldas)
 
 
 
