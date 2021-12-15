@@ -167,8 +167,8 @@ def feladat38():
 def feladat39():
     a = [2.2,2.3,2.4,2.5,2.6]
 def feladat40():
-    veletlenek = []
-    for i in range(10):
+     veletlenek = []
+    for i in range(15):
         veletlenek.append(randint(10, 50))
     print(veletlenek,end=" ")
     print(max(veletlenek),"legnagyobb")
@@ -176,6 +176,23 @@ def feladat40():
     print(sum(veletlenek),"összegük")
     print(sum(veletlenek)/15,"átlaguk")
     print(max(veletlenek)-min(veletlenek),"terjedelmük")
+
+
+
+
+    parosok_lista=[]
+    for i in range(15):
+        parosok_lista.append(randint(10,50))
+    paros =[]
+    for item in parosok_lista:
+        if item%2==0:
+            paros.append(item)
+    print(paros,end=" ")
+    print(len(paros),"páros szám van")
+    print(sum(paros),"összegük")
+    print(sum(paros)/15,"átlaguk")
+    print(max(paros)-min(paros),"terjedelmük")
+    print(max(paros),"legnagyobb")
 
 
 
