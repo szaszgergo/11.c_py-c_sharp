@@ -1,0 +1,1 @@
+& "C:/Program Files/Python38/python.exe" z:/10.osztály/monok_judit/py/10.c2cs_py/20220210/main.py
