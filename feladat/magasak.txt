@@ -1,0 +1,1 @@
+['Nep�l', 'Csomolungma', 8848, 'K�na', 'Csomolungma', 8848, 'Pakiszt�n', 'K2', 8611, 'India', 'Kancsendz�nga', 8598, 'Bhut�n', 'Gangkhar Puensum', 7570]

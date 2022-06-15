@@ -1,0 +1,238 @@
+Nep�l	Csomolungma	8848
+K�na	Csomolungma	8848
+Pakiszt�n	K2	8611
+India	Kancsendz�nga	8598
+Bhut�n	Gangkhar Puensum	7570
+T�dzsikiszt�n	Iszmoil� Szomon�-cs�cs	7495
+Afganiszt�n	Novsak	7485
+Kirgiziszt�n	Pobeda-cs�cs (Dzsengis Csokuszu)	7439
+Kazahszt�n	Khan Tangiri Shyngy (Pik Khan-Tengri)	7010
+Argent�na	Aconcagua	6960
+Chile	Ojos del Salado	6880
+Peru	Huascar�n	6768
+Bol�via	Nevado Sajama	6542
+Ecuador	Chimborazo	6267
+Amerikai Egyes�lt �llamok	Denali	6194
+Kanada	Mount Logan	5959
+Tanz�nia	Kilimandzs�r�	5895
+Mianmar	Hkakabo Razi	5881
+Kolumbia	Pico Crist�bal Col�n	5775
+Mexik�	Citlalt�petl	5636
+Oroszorsz�g	Elbrusz	5642
+Ir�n	Dam�vand	5604
+Gr�zia	Sara	5201
+Kenya	Kenya-hegy	5199
+T�r�korsz�g	Arar�t-hegy	5137
+Uganda	a Margherita a Stanley-hegyen	5110
+Kong�i Demokratikus K�zt�rsas�g	a Margherita a Stanley-hegyen	5110
+Venezuela	Pico Bol�var (La Columna)	4981
+Indon�zia	Mount Carstenz (Puncak Jaya)	4884
+Franciaorsz�g	Mont Blanc	4807
+Olaszorsz�g	Mont Blanc (Monte Bianco de Courmayeur)	4748
+Sv�jc	Dufourspitze (Pointe Dufour)	4634
+Eti�pia	Ras Dashan	4533
+Ruanda	Karisimbi	4519
+P�pua �j-Guinea	Mount Wilhelm	4509
+Azerbajdzs�n	Bazarduzu Dagi	4485
+Mong�lia	Hujtun	4374
+�zbegiszt�n	Adelunga Toghi	4301
+Guatemala	Tajumulco	4211
+Marokk�	Toubkal	4165
+Malajzia	Gunung Kinabalu	4100
+Kamerun	a Fako a Kamerun-hegyen	4095
+�rm�nyorsz�g	Aragac	4090
+Tajvan	J�-San	3952
+Costa Rica	Cerro Chirripo	3810
+Ausztria	Gro�glockner	3798
+Jap�n	Fudzsi-jama	3776
+�j-Z�land	Aoraki/Mount Cook	3754
+Spanyolorsz�g	a Teide a kan�ri-szigeteki Tenerif�n	3718
+Gr�nland	Gunnbjorn	3700
+Jemen	Nabi Suejb	3666
+Irak*	Csika-Dar	3611
+Lesotho	Thabana Ntlenyana	3482
+Panama	Chiriqui-vulk�n	3475
+Cs�d	Emi Koussi	3445
+D�l-afrikai K�zt�rsas�g	Njesuthi	3408
+Szud�n	Kinyeti	3187
+Vietnam	Fan Si Pan	3144
+T�rkmeniszt�n	Gora Ayribaba	3139
+Dominikai K�zt�rsas�g	Pico Duarte	3098
+Libanon	Qurnat as Sawda'	3088
+R�union	Piton des Neiges	3069
+Eritrea	Soira	3018
+Egyenl�t�i-Guinea	Pico Basile	3008
+Alg�ria	Tahat	3003
+Malawi	Sapitwa (Mount Mlanje)	3002
+Sza�d-Ar�bia	*tiszt�zatlan	3000
+Braz�lia	Pico da Neblina	2994
+Om�n	Jabal Shams	2980
+Kelet-Timor	Foho Tatamailau	2963
+N�metorsz�g	Zugspitze	2963
+F�l�p-szigetek	Mount Apo	2954
+Andorra	Coma Pedrosa	2946
+Bulg�ria	Muszala	2925
+G�r�gorsz�g	Olimposz	2917
+Madagaszk�r	Maremokotro	2876
+Honduras	Cerro Las Minas	2870
+Szlov�nia	Triglav	2864
+Z�ld-foki-szigetek	Mount Fogo	2829
+Laosz	Phubia	2817
+Sz�ria	Mount Hermon	2814
+Maced�nia	Golem Korab (Maja e Korabit)	2764
+Alb�nia	Golem Korab (Maja e Korabit)	2764
+Guyana	Roraima-hegy	2772
+Koreai N�pi Demokratikus K�zt�rsas�g	Pektu-hegy	2744
+Salvador	Cerro El Pital	2730
+Haiti	Pic de la Selle	2680
+Burundi	Mount Heha	2670
+Szerbia	�eravica	2656
+Koszov� (UN 1244)	Gjeravica	2656
+Szlov�kia	Gerlachfalvi-cs�cs	2655
+Egyiptom	Szent Katalin-hegy	2629
+Angola	Morro de Moco	2620
+Nam�bia	Konigstein	2606
+Liechtenstein	Grauspitz	2599
+Zimbabwe	Inyangani	2592
+Thaif�ld	Doi Inthanon	2576
+Rom�nia	Moldoveanu	2544
+Montenegr�	Zla Kolata	2534
+Sr� Lanka	Pidurutalagala	2524
+Lengyelorsz�g	Rysy	2499
+Norv�gia	Galdh?piggen	2469
+Nicaragua	Mogoton	2438
+Mozambik	Monte Binga	2436
+Nig�ria	Chappal Waddi	2419
+Szom�lia	Simbirisz	2416
+Bosznia-Hercegovina	Maglic	2386
+Comore-szigetek	Kartala	2360
+Portug�lia	a Ponta do Pico az azori-szigeteki Pico szigeten	2351
+Salamon-szigetek	Mount PopOm�naseu	2335
+Zambia	n�vtelen hely a Mafinga Hillsen	2301
+L�bia	Bikku Bitti	2267
+Jamaica	Blue Mountain Peak	2256
+Francia Polin�zia	Mont Orohena	2241
+Ausztr�lia	Mount Kosciuszko	2229
+Sv�dorsz�g	Kebnekaise	2111
+Izland	Hvannadalshnj�kur	2110
+Ukrajna	Hora Hoverla	2061
+Szent Ilona	a M�ria kir�lyn� cs�cs a Tristan da Cunh�n	2060
+Dzsibuti	Moussa Ali	2028
+S?o Tom� �s Pr�ncipe	Pico de S?o Tom�	2024
+Niger	Mont Bagzane	2022
+Kuba	Pico Turquino	2005
+Ciprus	�limbosz	1951
+Koreai K�zt�rsas�g (D�l-Korea)	Halla-hegy	1950
+Sierra Leone	Loma Mansa (Mount Bintimani)	1948
+Vanuatu	Mount Tabwemasana	1877
+Szv�zif�ld	Emlembe	1862
+Szamoa	Mauga Silisili (Savaii)	1857
+Brunei	Bukit Pagon	1850
+Horv�torsz�g	Dinara	1830
+Kambodzsa	Aoral	1810
+Elef�ntcsontpart	Nimba	1752
+Guinea	Nimba	1752
+Jord�nia	Dzsabal Ram	1734
+Spitzberg�k	Newtontoppen	1717
+�j-Kaled�nia	Mont Panie	1628
+Csehorsz�g	Sn�ka	1602
+Tun�zia	Jebel ech Chambi	1544
+Arab Em�rs�gek	Dzsabal Jibir	1527
+Botswana	Tsodilo Hills	1489
+Guadeloupe	La Grande Soufri?re	1484
+Dominikai K�z�ss�g	Morne Diablotins	1447
+K�z�p-afrikai K�zt�rsas�g	Mont Ngaoui	1420
+Martinique	Montagne Pelee	1397
+Lib�ria	Mount Wuteve	1380
+Nagy-Britannia	Ben Nevis	1343
+Puerto Rico	Cerro de Punta	1338
+Finnorsz�g	Halti	1328
+Fidzsi-szigetek	Tom�nivi	1324
+Saint Vincent	Soufri?re vulk�n	1234
+Suriname	Juliana Top	1230
+Izrael	Har Meron	1208
+Belize	Victoria-cs�cs	1160
+Saint Kitts �s Nevis	Mount Liamuiga	1156
+Mali	Hombori Tondo	1155
+Gabon	Mont Bengou�	1070
+Banglades	*Mowdok	1052
+�rorsz�g	Carrauntoohill	1041
+Tonga	n�vtelen hely a Kao szigeten	1033
+Ciszjord�nia	Tall Asur	1022
+Magyarorsz�g	K�kes tet�	1014
+Togo	Mont Agou	986
+Amerikai Szamoa	Lata	966
+�szaki-Mariana-szigetek	n�vtelen hely az Agrihanon	965
+Hongkong	Tajmo-san	958
+Saint Lucia	Mount Gimie	950
+Trinidad �s Tobago	El Cerro del Aripo	940
+Maurit�nia	Kediet Ijill	915
+Montserrat	a Chances-cs�cs a Soufriere Hills vulk�negy�ttesben	914
+Seychelle-szigetek	Morne Seychellois	905
+Kong�i K�zt�rsas�g	Mount Berongou	903
+Fer�er	Sl?ttaratindur	882
+Gh�na	Mount Afadjato	880
+Saba	Mount Scenery	862
+Francia Guyana	Bellevue de l'Inini	851
+Paraguay	Cerro Pero (Cerro Tres Kandu)	842
+Grenada	Mount Saint Catherine	840
+Mauritius	Mont Piton	828
+Mikron�zia	Dolohmwar (Totolom)	791
+Wallis �s Futuna	Mont Singavi	765
+San Marino	Monte Titano	755
+Burkina Faso	Tena Kourou	749
+Falkland-szigetek	Mount Usborne	705
+Belgium	Signal de Botrange	694
+Mayotte	Benara	660
+Benin	Mont Sokbaro	658
+Cook-szigetek	Te Manga	652
+Man sziget	Snaefell	621
+Szeneg�l	n�vtelen kiemelked�s a Nepen Diakha k�zel�ben	581
+Luxemburg	Buurgplaatz	559
+Brit Virgin-szigetek	Mount Sage	521
+Uruguay	Cerro Catedral	514
+Amerikai Virgin-szigetek	Crown Mountain	474
+Nyugat-Szahara	n�vtelen hely	463
+Moldova	Dealul B�l�ne�ti	430
+Gibralt�r	Rock of Gibralt�r	426
+Guam	Mount Lamlam	406
+Antigua �s Barbuda	Boggy Peak	402
+Kar�csony-sziget	Murray Hill	361
+Pitcairn-szigetek	Pawala Valley Ridge	347
+Feh�roroszorsz�g	Dzjarzsinszkaja-hegy	346
+Barbados	Mount Hillaby	336
+Hollandia	Vaalserberg	322
+Norfolk-sziget	Mount Bates	319
+�sztorsz�g	Suur Munam�gi	318
+Lettorsz�g	Gaizinkalns	312
+Kuvait	n�vtelen hely	306
+Bissau-Guinea	n�vtelen hely az orsz�g �szakkeleti cs�cs�n�l	300
+Litv�nia	Juozapines/Kalnas	292
+M�lta	Ta'Dmejrek	253
+Palau	Mount Ngerchelchuus	242
+Saint Pierre �s Miquelon	Morne de la Grande Montagne	240
+Aruba	Mount Jamanota	188
+D�nia	Yding Skovh?j	173
+Maka�	Coloane Alto	172
+Szingap�r	Bukit Timah	166
+Jersey	Les Platons	143
+Monaco	Mont Agel	140
+Bahrein	Jabal ad Dukhan	122
+Guernsey	Le Moulin Sark	114
+G�zai �vezet	Ab� 'Awdah (Joz Ab� 'Auda)	105
+Katar	Qurayn Ab� al Bawl	103
+Kiribati	n�vtelen hely a Banab�n	81
+Bermuda	Town Hill	76
+Vatik�n	n�vtelen hely	75
+Niue	n�vtelen hely Mutalau telep�l�s k�rny�k�n	68
+Anguilla	Crocus Hill	65
+Bahama-szigetek	Mount Alvernia a Cat-szigeten	63
+Nauru	n�vtelen hely a fenns�k sz�l�n	61
+Gambia	n�vtelen hely	53
+Turks- �s Caicos-szigetek	Blue Hills	49
+Kajm�n-szigetek	The Bluff	43
+Marshall-szigetek	n�vtelen hely a Likiepen	10
+K�kusz (Keeling)-szigetek	n�vtelen hely	5
+Tokelau-szigetek	n�vtelen hely	5
+Tuvalu	n�vtelen hely	5
+Mald�v-szigetek	n�vtelen hely az Addu-atollbeli Wilingili-szigeten	2
