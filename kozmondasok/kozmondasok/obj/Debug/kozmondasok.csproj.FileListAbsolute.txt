@@ -1,0 +1,7 @@
+Z:\11.osztály\programozás\20230112\kozmondasok\kozmondasok\bin\Debug\kozmondasok.exe.config
+Z:\11.osztály\programozás\20230112\kozmondasok\kozmondasok\bin\Debug\kozmondasok.exe
+Z:\11.osztály\programozás\20230112\kozmondasok\kozmondasok\bin\Debug\kozmondasok.pdb
+Z:\11.osztály\programozás\20230112\kozmondasok\kozmondasok\obj\Debug\kozmondasok.csproj.AssemblyReference.cache
+Z:\11.osztály\programozás\20230112\kozmondasok\kozmondasok\obj\Debug\kozmondasok.csproj.CoreCompileInputs.cache
+Z:\11.osztály\programozás\20230112\kozmondasok\kozmondasok\obj\Debug\kozmondasok.exe
+Z:\11.osztály\programozás\20230112\kozmondasok\kozmondasok\obj\Debug\kozmondasok.pdb
