@@ -1,0 +1,7 @@
+Z:\11.osztály\programozás\20230216_C#_Kémia\Kemia\Kemia\bin\Debug\Kemia.exe.config
+Z:\11.osztály\programozás\20230216_C#_Kémia\Kemia\Kemia\bin\Debug\Kemia.exe
+Z:\11.osztály\programozás\20230216_C#_Kémia\Kemia\Kemia\bin\Debug\Kemia.pdb
+Z:\11.osztály\programozás\20230216_C#_Kémia\Kemia\Kemia\obj\Debug\Kemia.csproj.AssemblyReference.cache
+Z:\11.osztály\programozás\20230216_C#_Kémia\Kemia\Kemia\obj\Debug\Kemia.csproj.CoreCompileInputs.cache
+Z:\11.osztály\programozás\20230216_C#_Kémia\Kemia\Kemia\obj\Debug\Kemia.exe
+Z:\11.osztály\programozás\20230216_C#_Kémia\Kemia\Kemia\obj\Debug\Kemia.pdb
