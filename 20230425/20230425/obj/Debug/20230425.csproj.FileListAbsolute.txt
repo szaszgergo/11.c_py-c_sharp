@@ -1,0 +1,7 @@
+Z:\11.osztály\mazak_prog\20230425\20230425\bin\Debug\20230425.exe.config
+Z:\11.osztály\mazak_prog\20230425\20230425\bin\Debug\20230425.exe
+Z:\11.osztály\mazak_prog\20230425\20230425\bin\Debug\20230425.pdb
+Z:\11.osztály\mazak_prog\20230425\20230425\obj\Debug\20230425.csproj.AssemblyReference.cache
+Z:\11.osztály\mazak_prog\20230425\20230425\obj\Debug\20230425.csproj.CoreCompileInputs.cache
+Z:\11.osztály\mazak_prog\20230425\20230425\obj\Debug\20230425.exe
+Z:\11.osztály\mazak_prog\20230425\20230425\obj\Debug\20230425.pdb
