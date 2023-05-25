@@ -1,0 +1,7 @@
+Z:\mazakfeladat_beadando\mazakfeladat_beadando\bin\Debug\mazakfeladat_beadando.exe.config
+Z:\mazakfeladat_beadando\mazakfeladat_beadando\bin\Debug\mazakfeladat_beadando.exe
+Z:\mazakfeladat_beadando\mazakfeladat_beadando\bin\Debug\mazakfeladat_beadando.pdb
+Z:\mazakfeladat_beadando\mazakfeladat_beadando\obj\Debug\mazakfeladat_beadando.csproj.AssemblyReference.cache
+Z:\mazakfeladat_beadando\mazakfeladat_beadando\obj\Debug\mazakfeladat_beadando.csproj.CoreCompileInputs.cache
+Z:\mazakfeladat_beadando\mazakfeladat_beadando\obj\Debug\mazakfeladat_beadando.exe
+Z:\mazakfeladat_beadando\mazakfeladat_beadando\obj\Debug\mazakfeladat_beadando.pdb

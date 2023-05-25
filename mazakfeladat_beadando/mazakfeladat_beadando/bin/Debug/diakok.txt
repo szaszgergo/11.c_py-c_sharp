@@ -1,0 +1,21 @@
+név;kor;azonosito;magassag;suly
+Példa János;17;123456;175;65
+Kovács Anna;16;987654;165;55
+Nagy Gábor;18;789012;180;70
+Kiss Éva;17;345678;160;50
+Tóth Péter;16;567890;170;60
+Szabó Orsolya;18;901234;165;55
+Varga Bence;17;234567;175;65
+Farkas Zsófia;16;456789;155;45
+Kovács Gergő;18;678901;185;75
+Kiss Laura;17;890123;160;50
+Németh Ádám;16;432156;175;65
+Kis Anna;18;654321;170;60
+Tóth András;17;876543;165;55
+Horváth Eszter;16;215634;155;45
+Kiss Dávid;18;543216;180;70
+Simon Eszter;17;761234;165;55
+Nagy Máté;16;123789;175;65
+Kovács Petra;18;321987;160;50
+Takács Gábor;17;234178;175;65
+Molnár Zsuzsa;16;879213;165;55
