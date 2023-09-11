@@ -1,0 +1,9 @@
+private void button1_Click(object sender, EventArgs e)
+{
+    // Define new X and Y coordinates for the label's position
+    int newX = 100; // Replace with your desired X-coordinate
+    int newY = 100; // Replace with your desired Y-coordinate
+
+    // Update the label's position
+    label1.Location = new Point(newX, newY);
+}
